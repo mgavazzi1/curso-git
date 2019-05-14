@@ -7,6 +7,7 @@ namespace Solution_2
         static void Main(string[] args)
         {
             Console.WriteLine("Bom dia");
+            Console.WriteLine("Boa tarde");
         }
     }
 }
